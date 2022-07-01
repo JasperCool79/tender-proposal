@@ -6,7 +6,7 @@ This project is code test purpose for a company and just demo data only
 
 ## Git Clone
 ```
-git clone https://github.com/JasperCool79/MicroEcommerce.git
+git clone https://github.com/JasperCool79/tender-proposal.git
 ```
 ## Compoer Instal
 ```
@@ -16,6 +16,10 @@ composer install
 ## .env setup
 ```
 change .env.example to .env
+```
+## Key Generate
+```
+php artisan key:generate
 ```
 ## db setup
 ```
